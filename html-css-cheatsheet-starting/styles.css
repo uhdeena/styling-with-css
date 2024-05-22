@@ -1,0 +1,79 @@
+body {
+  background-image: radial-gradient(circle at top, #40BFA5, #BB40BF);
+  font-family: 'noto sans';
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+table {
+  display: table;
+  box-sizing: border-box;
+  margin: auto;
+  border:1px; 
+  padding: 10px;
+  border-collapse: collapse;
+}
+
+.head {
+  border-style: solid;
+  text-transform: uppercase;
+  border: solid 3px;
+  border-color: #BB40BF;
+  margin: auto;
+  padding: 5px;
+  font-size: 20px;
+}
+
+td {
+  border: 1px solid #BB40BF; 
+  padding: 5px 50px;
+  margin: auto;
+  color: white;
+  font-weight: light;
+}
+
+.row-one {
+  background-color: #40BFA5;
+}
+
+#sevenhundred {
+  font-weight: lighter;
+  font-style: italic;
+  font-size: 13px;
+}
+
+#fourhundred {
+  font-weight: lighter;
+  font-style: italic;
+  font-size: 13px;
+}
+
+#lowercase {
+  font-weight: lighter;
+  font-style: italic;
+  font-size: 13px;
+}
+
+#em {
+  font-weight: lighter;
+  font-style: italic;
+  font-size: 13px;
+}
+
+#em2 {
+  font-weight: lighter;
+  font-style: italic;
+  font-size: 13px;
+}
+
+#align {
+  font-weight: lighter;
+  font-style: italic;
+  font-size: 13px;
+}
